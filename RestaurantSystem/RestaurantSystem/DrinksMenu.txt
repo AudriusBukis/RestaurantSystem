@@ -1,0 +1,46 @@
+Cold drinks;Yogurt mango cocktail;4.5
+Cold drinks;Mixed Berry and Banana Milk shake;4.5
+Cold drinks;Tropical Fruit Smoothie;5.5
+Cold drinks;Red Fruit Smoothie;5.5
+Cold drinks;Milk Shakes Strawberry;3.5
+Cold drinks;Milk Shakes vanilla;3.5
+Cold drinks;Milk Shakes raspberry;3.5
+Cold drinks;Milk Shakes banana;3.5
+Cold drinks;Milk Shakes chocolate;3.5
+Tea;Peppermint Tea;1.9
+Tea;Classical Black Tea;1.5
+Tea;Black Tea Flavoured with Mangoes;1.5
+Tea;Green Tea Flavoured with Tangerine;1.5
+Tea;Camomile Honey Tea;1.9
+Tea;Fruit Tea with Rosehip;2.5
+Tea;Ginger Tea with Lemon;2.5
+Tea;Grandma‘s Country Tea with Pureed Berries;2.5
+Tea;Hot Berry Tea Drink with Raspberries;2.2
+Tea;Hot Berry Tea Drink with Mangoes;2.2
+Tea;Hot Berry Tea Drink with Sea Buckthorn;2.2
+Coffee;Black Coffee;1.8
+Coffee;Espresso;1.8
+Coffee;Coffee with Milk;2.0
+Coffee;Cappuccino;2.3
+Coffee;Latte;2.5
+Coffee;Latte with Ice Cream;2.9
+Coffee;Iced Cappucino Coffee;2.5
+Beverages;Naturally matured kvass 500ml;2.0
+Beverages;Naturally matured kvass 1l;3.9
+Beverages;Apple juice 350ml;1.8
+Beverages;Grapes juice 350ml;1.8
+Beverages;Orange juice 350ml;1.8
+Beverages;Multivitamin juice 350ml;1.8
+Beverages;Grapefruit juice 350ml;1.8
+Beverages;Still mineral water 500ml;1.5
+Beverages;Carbonated mineral water 500ml;1.5
+Beverages;Coca-Cola 250ml;2.5
+Beverages;Sprite 250ml;2.5
+Beverages;Fanta 250ml;2.5
+Beer;Wild River Craft;4.5
+Beer;Brewers & Union Unflt Lager;4.5
+Beer;Svyturio Baltas;4.5
+Beer;Volfas Engelman Bohemijos;4.5
+Beer;Lindemans Pecheresse;4.5
+Beer;Volfas Engelman non-alcohol;4.5
+Beer;Utenos dark;4.5

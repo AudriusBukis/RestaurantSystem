@@ -1,0 +1,93 @@
+Date 2022-03-10 21:52
+----------------------------
+Table No.1, seats amount-6
+1. Black Coffee - 1.8 Eu
+2. Espresso - 1.8 Eu
+3. Coffee with Milk - 2 Eu
+4. Cappuccino - 2.3 Eu
+5. Latte - 2.5 Eu
+6. Latte with Ice Cream - 2.9 Eu
+7. Smoked pork ears - 2.9 Eu
+8. Spiced white cheese - 4.9 Eu
+9. Fried onion and squid rings - 5.9 Eu
+10. Set of fried shrimp - 10.9 Eu
+----------------------------
+Total price to pay - 37.9 €
+============================
+Date 2022-03-11 18:35
+----------------------------
+Table No.3, seats amount-3
+1. Black Coffee - 1.8 Eu
+2. Black Coffee - 1.8 Eu
+3. Black Coffee - 1.8 Eu
+4. Latte - 2.5 Eu
+5. Cappuccino - 2.3 Eu
+6. Iced Cappucino Coffee - 2.5 Eu
+7. Iced Cappucino Coffee - 2.5 Eu
+----------------------------
+Total price to pay - 15.2 €
+============================
+Date 2022-03-11 18:49
+----------------------------
+Table No.3, seats amount-4
+1. Grapes juice 350ml - 1.8 Eu
+2. Grapes juice 350ml - 1.8 Eu
+3. Grapes juice 350ml - 1.8 Eu
+4. Still mineral water 500ml - 1.5 Eu
+5. Coca-Cola 250ml - 2.5 Eu
+6. Coca-Cola 250ml - 2.5 Eu
+7. Fanta 250ml - 2.5 Eu
+8. Fanta 250ml - 2.5 Eu
+----------------------------
+Total price to pay - 16.9 €
+============================
+Date 2022-03-11 19:02
+----------------------------
+Table No.3, seats amount-2
+1. Spicy PERKŪNO soup - 4 Eu
+2. Svyturio Baltas - 4.5 Eu
+----------------------------
+Total price to pay - 8.5 €
+============================
+Date 2022-03-11 20:19
+----------------------------
+Table No.5, seats amount-2
+1. Wild River Craft - 4.5 Eu
+2. Brewers & Union Unflt Lager - 4.5 Eu
+3. Svyturio Baltas - 4.5 Eu
+4. Volfas Engelman Bohemijos - 4.5 Eu
+5. Volfas Engelman Bohemijos - 4.5 Eu
+6. Volfas Engelman Bohemijos - 4.5 Eu
+7. Volfas Engelman non-alcohol - 4.5 Eu
+8. Volfas Engelman non-alcohol - 4.5 Eu
+----------------------------
+Total price to pay - 36 €
+============================
+Date 2022-03-14 19:00
+----------------------------
+Table No.3, seats amount-6
+0. Peppermint Tea - 1.9 Eu
+0. Classical Black Tea - 1.5 Eu
+0. Black Tea Flavoured with Mangoes - 1.5 Eu
+0. Green Tea Flavoured with Tangerine - 1.5 Eu
+0. Camomile Honey Tea - 1.9 Eu
+0. Fruit Tea with Rosehip - 2.5 Eu
+0. Ginger Tea with Lemon - 2.5 Eu
+0. Grandma‘s Country Tea with Pureed Berries - 2.5 Eu
+0. Hot Berry Tea Drink with Raspberries - 2.2 Eu
+----------------------------
+Total price to pay - 18 €
+============================
+Date 2022-03-14 19:02
+----------------------------
+Table No.1, seats amount-3
+1. Black Coffee - 1.8 Eu
+2. Espresso - 1.8 Eu
+3. Coffee with Milk - 2 Eu
+4. Cappuccino - 2.3 Eu
+5. Latte - 2.5 Eu
+6. Latte with Ice Cream - 2.9 Eu
+7. Iced Cappucino Coffee - 2.5 Eu
+----------------------------
+Total price to pay - 15.8 €
+============================
