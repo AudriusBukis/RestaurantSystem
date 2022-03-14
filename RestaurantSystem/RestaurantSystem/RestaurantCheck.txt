@@ -1,0 +1,15 @@
+Date 2022-03-14 20:48
+----------------------------
+Table No.1, seats amount-3
+1. Yogurt mango cocktail - 4.5 Eu
+2. Mixed Berry and Banana Milk shake - 4.5 Eu
+3. Tropical Fruit Smoothie - 5.5 Eu
+4. Red Fruit Smoothie - 5.5 Eu
+5. Milk Shakes Strawberry - 3.5 Eu
+6. Milk Shakes vanilla - 3.5 Eu
+7. Milk Shakes raspberry - 3.5 Eu
+8. Milk Shakes banana - 3.5 Eu
+9. Milk Shakes chocolate - 3.5 Eu
+----------------------------
+Total price to pay - 37.5 €
+============================

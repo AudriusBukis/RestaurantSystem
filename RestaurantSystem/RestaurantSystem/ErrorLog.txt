@@ -1,0 +1,11 @@
+========Error Start======== 3/14/2022 8:48:08 PM
+Error Message: Value cannot be null. (Parameter 's')
+Stack Trace:    at System.Double.Parse(String s, IFormatProvider provider)
+   at RestaurantSystem.Models.ExceptionsHandle.FromStringToDouble(String str) in C:\Users\audri\Documents\Code_Academy_mokymai\examwork2\RestaurantSystem\RestaurantSystem.Models\ExceptionsHandle.cs:line 29
+===========End============= 3/14/2022 8:48:08 PM
+========Error Start======== 3/14/2022 8:48:08 PM
+Error Message: Input string was not in a correct format.
+Stack Trace:    at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Double.Parse(String s, IFormatProvider provider)
+   at RestaurantSystem.Models.ExceptionsHandle.FromStringToDouble(String str) in C:\Users\audri\Documents\Code_Academy_mokymai\examwork2\RestaurantSystem\RestaurantSystem.Models\ExceptionsHandle.cs:line 29
+===========End============= 3/14/2022 8:48:08 PM

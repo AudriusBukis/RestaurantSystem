@@ -1,0 +1,46 @@
+Salad;Greek salad;6.5
+Salad;Chicken salad with grilled vegetables;6.9
+Salad;Ripped chicken salad with tomatoes and mozzarella cheese;6.9
+Salad;Karamelinės kalakutienos salotos;7.2
+Salad;Royal prawn salad with avocado fruit;7.9
+Soups;Sauerkraut soup with smoked ribs;3.9
+Soups;Lithuanian borscht with boletus;4.1
+Soups;Spicy PERKŪNO soup;4.0
+Soups;Branded boletus;6.9
+Dish;Scorpionfish fillet with almond crust;7.5
+Dish;Salmon steak with vegetables and mussels in a mild cream and wine sauce;10.9
+Dish;Shrimp in a pan;11.9
+Dish;Kiev cutlet;7.8
+Dish;Chicken steak according to an old herbalist recipe;8.5
+Dish;Veal stewed in cream with squirrels;9.9
+Dish;The legendary steak of Kaunas Old Town Gildija;10.9
+Dish;Grilled chicken fillet steaks with vegetables;8.5
+Dish;Kiaulienos sprandinės šašlykas;8.5
+Dish;Pork neck steak with caramelized onions;8.9
+Dish;Spicy and brittle, in mouth-melting pork;9.9
+Dish;A real Lithuanian chop;10.9
+Dish;Smoked bun in a pan with seasoned mashed potatoes;8.6
+Dish;A tower of potato pancakes fried in duck fat;5.5
+Dish;Žemaičiu pancakes;5.5
+Dish;Pigeons with boiled potatoes;5.9
+Dish;Potato plate with smoked carcass;5.9
+Dish;Potato waffle pancakes;7.9
+Dish;Didžkukuliai;6.5
+Snacks;Peas with cracklings;1.9
+Snacks;Smoked pork ears;2.9
+Snacks;Toast with cheese;3.9
+Snacks;Warm toast with cheese sauce;3.9
+Snacks;Spiced white cheese;4.9
+Snacks;Fried onion and squid rings;5.9
+Snacks;Dried beef slices;6.9
+Snacks;Set of fried shrimp;10.9
+Dessert;Mango and White Chocolate Cheesecake;4.5
+Dessert;Warm Apple Pie;4.9
+Dessert;Warm Cheesecake with Hot Berries;4.9
+Dessert;Warm Cherry Pie;5.5
+Dessert;Old Fashioned Honey Cake;5.2
+Dessert;Chocolate Temptation;5.5
+Dessert;Pistachio Creme Brulee;4.9
+Dessert;Raspberry Meringue Sundae;6.5
+Dessert;Brown Bread Ice Cream;5.9
+Dessert;Black Coconut Ice Cream;7.1
