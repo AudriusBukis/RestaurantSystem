@@ -36,25 +36,18 @@ namespace RestaurantSystem.Models
                 Console.WriteLine("enter yuor email");
                 string enteredEmail = Console.ReadLine();
                 Console.WriteLine("Started validation of email:");
-                try
+                if (EmailRegexValidator.IsMatch(enteredEmail))
                 {
-                    if (EmailRegexValidator.IsMatch(enteredEmail))
-                    {
-                        Console.WriteLine("Validated. mail sended");
-                        return enteredEmail;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Not valid email address, press any key to continue");
-                        Console.ReadKey();
-                    }
+                    Console.WriteLine("Validated. mail sended");
+                    return enteredEmail;
                 }
-                catch (ArgumentException ex)
+                else
                 {
-                    ExceptionsHandle.Logging(ex.Message, ex.StackTrace);
-                    Console.WriteLine($"Error: {ex.Message}");
-                    return GetEmailLogin.GetAllLines()[0];
+                    Console.WriteLine("Not valid email address, press any key to continue");
+                    Console.ReadKey();
                 }
+              
+
             }
         }
     }
